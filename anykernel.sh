@@ -12,7 +12,10 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=RMX1921
 device.name2=RMX1921EU
-supported.versions=12 - 13
+device.name3=RMX1851
+device.name4=RMX1851EX
+device.name5=RMX1851CN
+supported.versions=11 - 14
 '; } # end properties
 
 
