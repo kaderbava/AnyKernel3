@@ -15,6 +15,9 @@ device.name2=RMX1921EU
 device.name3=RMX1851
 device.name4=RMX1851EX
 device.name5=RMX1851CN
+device.name6=RMX1971
+device.name7=RMX1971EX
+device.name8=RMX1971CN
 supported.versions=11 - 14
 '; } # end properties
 
