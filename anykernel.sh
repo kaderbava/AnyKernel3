@@ -18,7 +18,7 @@ device.name5=RMX1851CN
 device.name6=RMX1971
 device.name7=RMX1971EX
 device.name8=RMX1971CN
-supported.versions=11 - 14
+supported.versions=11 - 15
 '; } # end properties
 
 
